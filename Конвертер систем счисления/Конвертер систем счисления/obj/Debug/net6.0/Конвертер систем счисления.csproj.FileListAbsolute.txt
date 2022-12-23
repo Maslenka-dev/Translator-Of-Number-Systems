@@ -1,0 +1,15 @@
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\bin\Debug\net6.0\Конвертер систем счисления.exe
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\bin\Debug\net6.0\Конвертер систем счисления.deps.json
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\bin\Debug\net6.0\Конвертер систем счисления.runtimeconfig.json
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\bin\Debug\net6.0\Конвертер систем счисления.dll
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\bin\Debug\net6.0\Конвертер систем счисления.pdb
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.csproj.AssemblyReference.cache
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.AssemblyInfoInputs.cache
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.AssemblyInfo.cs
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.csproj.CoreCompileInputs.cache
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.dll
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\refint\Конвертер систем счисления.dll
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.pdb
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\Конвертер систем счисления.genruntimeconfig.cache
+D:\Programming\C#\awful code\Конвертер систем счисления\Конвертер систем счисления\obj\Debug\net6.0\ref\Конвертер систем счисления.dll
