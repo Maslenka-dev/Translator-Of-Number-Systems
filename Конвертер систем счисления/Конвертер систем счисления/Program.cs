@@ -1,4 +1,4 @@
-﻿using System;
+ using System;
 
 namespace ConverterBetweenSystemsOfNumerations
 {
@@ -46,7 +46,7 @@ namespace ConverterBetweenSystemsOfNumerations
             // В этом говне описана конвертация из двоичной системы в десятичную
             void ConvertFromBinaryCodeIntoDecimalCode()
             {
-                Console.WriteLine("введите число в двоичной системе: ");
+                Console.WriteLine("Введите число в двоичной системе: ");
                 string BinaryCodeString = Console.ReadLine();
                 int[] BinaryCode = new int[BinaryCodeString.Length];
 
@@ -54,9 +54,7 @@ namespace ConverterBetweenSystemsOfNumerations
                  * да и в целом описать массив одной строчкой */
                 for (int i = 0; i < BinaryCodeString.Length; i++)
                 {
-                    string ConvertFromCharToString = Convert.ToString(BinaryCodeString[i]);
-                    int NumberInArray = int.Parse(ConvertFromCharToString);
-                    BinaryCode[i] = NumberInArray;
+                    BinaryCode[i] = int.Parse(BinaryCodeString[i].ToString());
                 }
                 
                 int DecimalCode = 0;
